@@ -17,5 +17,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=DeeaMG&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 <br>
 ---
-[![](https://visitcount.itsvg.in/api?id=DeeaMG&icon=6&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=DeeaMG&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <br>
