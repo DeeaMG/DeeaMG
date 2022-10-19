@@ -2,9 +2,9 @@
 [<img align="left" alt="ganea.andreea.maria | Gmail" width="25px" src="./gmail.png" />][gmail]
 
 [gmail]: mailto:ganea.andreea.maria@gmail.com
-<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganea-andreea-maria-8835781a0)[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16733833)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganea-andreea-maria-8835781a0)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16733833)
 <br>
 
 ## 💻 Tech Stack:
