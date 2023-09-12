@@ -15,9 +15,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeaMG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeeaMG&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-<br>
----
 [![](https://visitcount.itsvg.in/api?id=DeeaMG&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 <br>
